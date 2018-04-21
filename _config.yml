@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
-logo: http://d3vncsohenrhbu.cloudfront.net/sites/default/files/CIGNEX-Datamatics-logo.png
+logo: ./imgs/logo.png
 show_downloads: "true"
 description: Cignex Datamatics - Technical Training Site
