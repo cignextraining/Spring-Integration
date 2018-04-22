@@ -5,7 +5,6 @@ remote_theme: chrisbobbe/jekyll-theme-prologue
 title: Spring Integration
 author: Vishal Rangras
 email: vishal.rangras@cignex.com
-baseurl: "/cignex-training"
 github_url: https://github.com/cignextraining
 facebook_url: https://www.facebook.com/CIGNEXTechnologies/
 linkedin_url: https://www.linkedin.com/company/cignex-datamatics
