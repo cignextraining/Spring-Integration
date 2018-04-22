@@ -1,6 +1,8 @@
 theme: jekyll-theme-prologue
 collections: [sections]
+remote_theme: chrisbobbe/jekyll-theme-prologue
 
 logo: ./imgs/logo.png
 show_downloads: "true"
 description: Cignex Datamatics - Technical Training Site
+permalink: pretty
