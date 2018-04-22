@@ -11,7 +11,13 @@ order: 5
 - In the world of integration, data providers and data consumers don’t always speak the same language. So transformers provide SI applications the means to convert messages between formats to facilitate non-homogeneous message exchange.
 - Allows provider and consumer of the information to communicate via SI without having to settle on common format.
   
-<br>
+  	
+<br/>
+   
+<img src="./imgs/Transformers.PNG" style="display: block; padding: 2% 0% 2% 14%;"/>
+   
+<br/>
+  
 
 - Sequence to follow:
 	1. String reversal Transformer

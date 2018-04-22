@@ -23,7 +23,13 @@ order: 6
 - Incoming messages are delivered to all listed recipient channels.
 - Don't examine the message.
 
-<br>
+  	
+<br/>
+   
+<img src="./imgs/Routers.PNG" style="display: block; padding: 2% 0% 2% 14%;"/>
+   
+<br/>
+  
 
 - Sequence to follow:
 	1. Content Routers

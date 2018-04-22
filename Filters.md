@@ -14,9 +14,14 @@ order: 4
 - **Xpath Filter** uses Xpath expression against XML Payload to select messages.
 - **XML Validating Filter** uses XML Schema to validate XML Payload messages.
 - **Custom Filter** can be implemented using MessageSelector interface.
-
-<br>
-
+  	
+<br/>
+   
+<img src="./imgs/Filters.PNG" style="display: block; padding: 2% 0% 2% 14%;"/>
+   
+<br/>
+  
+   
 - Sequence to follow:
 	1. Message Selector - File name based
 	2. Xpath Filter

@@ -11,9 +11,13 @@ order: 3
 	2. **Outbound Adapters**: Get messages from SI Channel to outside applications.
 - It provides a **bridge** between SI and external systems / services.
 - **Separation of Concern** of your Message API from transports and Protocols.
-
+  	
 <br/>
-
+  
+<img src="./imgs/Adapters.PNG" style="display: block; padding: 2% 0% 2% 14%;"/>
+  
+<br/>
+   
 - Sequence to follow: 
 	1. Outbound Adapter with Stdin
 	2. Outbound Adapter with File Inbound

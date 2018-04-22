@@ -13,7 +13,13 @@ order: 7
 	1. Header Enricher
 	2. Payload Enricher
 	
-<br>
+  	
+<br/>
+   
+<img src="./imgs/Enrichers.PNG" style="display: block; padding: 2% 0% 2% 14%;"/>
+   
+<br/>
+  
 
 - Sequence to follow:
 	1. Simple built-in Enricher
