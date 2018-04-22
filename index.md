@@ -12,7 +12,7 @@ order: 1
 
 <br>
 <p>
-**Enterprise Application Integration (EAI)** is the middleware that allows applications across an Enterprise to communicate and work together.
+<strong>Enterprise Application Integration (EAI)</strong> is the middleware that allows applications across an Enterprise to communicate and work together.
 </p>
 <br>
 <blockquote>
@@ -53,3 +53,22 @@ order: 1
 	- [x] AOP
 	- [x] Spring Security
 	- [x] Other benefits of Spring Ecosystem
+   	
+<br>
+
+## Getting Starter
+
+- You can download the starter code from <a href="https://github.com/cignextraining/si-starter/archive/master.zip">here</a>
+- Alternatively, you can create mavenized project with following files in it to get started.
+
+1. pom.xml (To be created in the root folder of project)
+
+{% gist 814cebc006fd9c9c2d161c404096328d %}
+
+2. Application.java (To be created inside src/main/java/ with package /com/cd/spring/. Full Path: src/main/java/com/cd/spring/Application.java)
+
+{% gist 65594a8b17318fb1e965a307a8ada260 %}
+
+3. integration.xml (To be created inside src/main/resources with a directory int-config. Full Path: src/main/resources/int-config/integration.xml)
+
+{% gist 48511b4986ee20615e840a802aadb442 %}
