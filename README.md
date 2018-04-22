@@ -1,3 +1,12 @@
+---
+title: Enrichers
+subtitle: How enrichers work in Spring Integration!
+layout: "page"
+icon: fa-code-commit
+order: 7
+hide: true
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/cignextraining/Spring-Integration/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
