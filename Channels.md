@@ -13,13 +13,16 @@ order: 2
 	- Pipes are called **Channels**.
 	- Producers and Consumers are known as **Endpoints**.
 	- The communication occurs via **Messages**.
-	- Message may consist of either some **data** or some **event information**.	
-
-Application.java
+	- Message may consist of either some **data** or some **event information**.
 	
-{% gist 59904706bf418a2efa19fd48e42d408c#file-application-java %}
+<br/>
 
-Direct Channel Integration
-
-{% gist 59904706bf418a2efa19fd48e42d408c#file-direct-channel-integration-xml %}
+- Sequence to follow: 
+	1. Subscribable Channel
+	2. Pollable Channel
+	3. Direct Channel
+	
+<br/>
+	
+{% gist 59904706bf418a2efa19fd48e42d408c %}
 
