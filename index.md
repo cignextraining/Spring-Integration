@@ -11,10 +11,10 @@ order: 1
 ## Enterprise Application Integration
 
 - Enterprise Application Integration (EAI) is the middleware that allows applications across an Enterprise to communicate and work together.
-- According to Gartner, EAI can be defined as unrestricted sharing of data and business processes among any connected application or data sources in the enterprise.
+> According to Gartner, EAI can be defined as unrestricted sharing of data and business processes among any connected application or data sources in the enterprise.
 
 - Why do we need EAI?
-	- Sometimes, Applications share data and processes that they probably weren't originally designed to share and in ways that may not have been even conceivable at the time of their creation.
+> Sometimes, Applications share data and processes that they probably weren't originally designed to share and in ways that may not have been even conceivable at the time of their creation.
 	
 - Problem Perspective
 	- Producer application provide data in XML Format.
@@ -24,7 +24,11 @@ order: 1
 [image1]: ./imgs/Picture1.png "Problem Perspective"
 <div align="center">
 ![alt text][image1]
+![Problem Perspective](./imgs/Picture1.png)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 </div>
+
+
 
 ## Spring Integration Framework
 
@@ -33,9 +37,8 @@ order: 1
 - Spring Integration(SI) is a physical embodiment of the EIP in Java which is built on top of Spring Framework.
 
 - With Spring Integration, you can leverage features of Spring like:
-	[x] Dependency Injection and Spring Container.
-	[x] POJO driven capabilities and Bean Wiring.
-	[x] AOP
-	[x] Spring Security
-	[x] Other benefits of Spring Ecosystem
-	
+	- [x] Dependency Injection and Spring Container.
+	- [x] POJO driven capabilities and Bean Wiring.
+	- [x] AOP
+	- [x] Spring Security
+	- [x] Other benefits of Spring Ecosystem
