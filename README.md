@@ -1,10 +1,9 @@
 ---
-title: Enrichers
-subtitle: How enrichers work in Spring Integration!
+title: Spring Integration
+subtitle: Spring Integration Framework!
 layout: "page"
 icon: fa-code-commit
-order: 7
-hide: true
+order: 8
 ---
 
 ## Welcome to GitHub Pages
