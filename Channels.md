@@ -6,6 +6,10 @@ icon: fa-code
 order: 2
 ---
 
+### Problem Perspective
+<img src="./imgs/Picture1.png" style="display: block; padding: 2% 0% 2% 14%;"/>
+
+
 - Producer and Consumer communicate with each other via **Pipe / Channel**. Channels are an integral part of any Spring Integration application.
 - Channels can be classified into: **Pollable Channels and Subscribable Channels**
 - In Spring Integration:
@@ -13,7 +17,8 @@ order: 2
 	- Producers and Consumers are known as **Endpoints**.
 	- The communication occurs via **Messages**.
 	- Message may consist of either some **data** or some **event information**.
-	
+
+<br/>	
 ### Problem Perspective
 <img src="./imgs/Picture1.png" style="display: block; padding: 2% 0% 2% 14%;"/>
 
