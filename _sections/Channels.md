@@ -29,3 +29,20 @@ public class Application {
 	}
 }
 ```
+
+```java
+@SpringBootApplication
+@ImportResource("/int-config/integration.xml")
+public class Application {
+	public static void main(String[] args) {
+		SpringApplication.run(Application.class, args);
+	}
+}
+```
+
+```ruby
+# This is highlighted code
+def foo
+  puts 'foo'
+end
+```
