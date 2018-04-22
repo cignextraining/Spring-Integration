@@ -10,9 +10,11 @@ order: 1
 
 ## Enterprise Application Integration
 
-- **Enterprise Application Integration (EAI)** is the middleware that allows applications across an Enterprise to communicate and work together.
+**Enterprise Application Integration (EAI)** is the middleware that allows applications across an Enterprise to communicate and work together.
 <br>
+  
 > According to _Gartner_, EAI can be defined as unrestricted sharing of data and business processes among any connected application or data sources in the enterprise.
+<br>
 <br>
 
 ### Why do we need EAI?
@@ -21,7 +23,7 @@ order: 1
 <br>  
 
 ### Problem Perspective
-<img src="./imgs/Picture1.png" style="display: block; padding: 2% 0% 2% 14%;""/>
+<img src="./imgs/Picture1.png" style="display: block; padding: 2% 0% 2% 14%;"/>
 	- Producer application provide data in XML Format.
 	- Consumer application can only consume JSON Format data.
 	- EAI Solution transforms XML data to JSON data so it can be consumed.
