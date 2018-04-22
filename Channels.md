@@ -1,7 +1,7 @@
 ---
+layout: page
 title: Channels
 subtitle: How channels and messages work in Spring Integration!
-layout: page
 icon: fa-code
 order: 2
 ---
@@ -15,6 +15,8 @@ order: 2
 	- Message may consist of either some **data** or some **event information**.
 	
 <br/>
+  
+<img src="./imgs/Picture1.png" style="display: block; padding: 2% 0% 2% 14%;"/>
    
 <img src="./imgs/channels-messages.png" style="display: block; padding: 2% 0% 2% 14%;"/>  
   
