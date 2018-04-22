@@ -20,11 +20,6 @@ order: 2
 <img src="{{ site.baseurl }}/imgs/channels-messages.png" style="display: block; padding: 2% 0% 2% 2%;" width="90%" height="auto"/>  
   
 <br/>
-
-### Channel - EIP
-<img src="{{ site.baseurl }}/imgs/Channels.PNG" style="display: block; padding: 2% 0% 2% 14%;"/>
-  
-<br/>
   
 ### Messages
 
@@ -32,6 +27,8 @@ order: 2
 - **Header** contains system information. E.g. timestamp, id, some metadata.
 - **Payload** contains the data or event that's needs to be exchanged inside of SI environment.
   
+  <br/>
+    
 ### Subscribable Channels 
 
 - Multiple subscribers **subscribe** to the channel.
@@ -39,8 +36,9 @@ order: 2
 - Messages are **delivered to all** the registered subscribers.
 - Used for sending **“event”** messages.
 - **Notify subscribers** that something happened and to take appropriate action.
-
-
+  
+  <br/>
+  
 ### Pollable Channels
 
 - Consumers actively poll to receive messages.
@@ -48,6 +46,13 @@ order: 2
 - Point-to-point channel with only one receiver of a message in the channel.
 - Used for sending “document ” messages between endpoints.
 - If there are more then one subscribers, it picks 1st one.
+  
+  <br/>
+  
+### Channel - EIP
+<img src="{{ site.baseurl }}/imgs/Channels.PNG" style="display: block; padding: 2% 0% 2% 14%;"/>
+  
+<br/>
 
   
 <br/>
