@@ -26,5 +26,5 @@ public class Application {
 </section>
 
 <footer>
-  <a href="#portfolio" class="button scrolly">Magna Aliquam</a>
+  <a href="#adapters" class="button scrolly">Magna Aliquam</a>
 </footer>
