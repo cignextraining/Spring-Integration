@@ -3,7 +3,7 @@ title: Channels
 subtitle: How channels and messages work in Spring Integration!
 cover-photo: ./imgs/banner.jpg
 auto-header: none
-layout: "page"
+layout: "home"
 icon: fa-code
 order: 2
 ---
@@ -11,7 +11,7 @@ order: 2
 <header>
   <h2 class="alt">Producer and Consumer communicate with each other via Pipe / Channel.<br />
   Channels are an integral part of any Spring Integration application.</h2>
-  <p>Classified can be classified into: Pollable Channels and Subscribable Channels</p>
+  <p>Channels can be classified into: Pollable Channels and Subscribable Channels</p>
 </header>
 
 - In Spring Integration:

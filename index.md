@@ -66,14 +66,38 @@ order: 1
   
 <br>
     
-#### 1. pom.xml (To be created in the root folder of project)
-
+### 1. pom.xml
+  
+<br>
+  
+- To be created in the root folder of project
+  
+<br>
+  
 {% gist 814cebc006fd9c9c2d161c404096328d %}
-
-#### 2. Application.java (To be created inside src/main/java/ with package /com/cd/spring/. Full Path: src/main/java/com/cd/spring/Application.java)
-
+  
+<br>
+  
+### 2. Application.java
+  
+<br>
+  
+- To be created inside src/main/java/ with package /com/cd/spring/. 
+- Full Path: src/main/java/com/cd/spring/Application.java)
+  
+<br>
+  
 {% gist 65594a8b17318fb1e965a307a8ada260 %}
-
-#### 3. integration.xml (To be created inside src/main/resources with a directory int-config. Full Path: src/main/resources/int-config/integration.xml)
-
+  
+<br>
+  
+### 3. integration.xml
+  
+<br>
+  
+- To be created inside src/main/resources with a directory int-config. 
+- Full Path: src/main/resources/int-config/integration.xml
+  
+<br>
+  
 {% gist 48511b4986ee20615e840a802aadb442 %}
