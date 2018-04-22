@@ -14,10 +14,10 @@ order: 2
 	- The communication occurs via **Messages**.
 	- Message may consist of either some **data** or some **event information**.
 	
-<br/>
-  
+### Problem Perspective
 <img src="./imgs/Picture1.png" style="display: block; padding: 2% 0% 2% 14%;"/>
-   
+
+### Channel and Message   
 <img src="./imgs/channels-messages.png" style="display: block; padding: 2% 0% 2% 14%;"/>  
   
 <br/>
