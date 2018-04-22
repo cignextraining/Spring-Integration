@@ -2,7 +2,8 @@ theme: jekyll-theme-prologue
 collections: [sections]
 remote_theme: chrisbobbe/jekyll-theme-prologue
 
-title: Spring Integration
+title: Cignex Datamatics
+description: Technical Trainings
 author: Vishal Rangras
 email: vishal.rangras@cignex.com
 github_url: https://github.com/cignextraining
@@ -10,6 +11,6 @@ facebook_url: https://www.facebook.com/CIGNEXTechnologies/
 linkedin_url: https://www.linkedin.com/company/cignex-datamatics
 
 show_downloads: "true"
-description: Cignex Datamatics - Technical Training Site
+
 permalink: pretty
-avatar: ./imgs/logo.png
+avatar: ./imgs/Logo_400x400.GIF

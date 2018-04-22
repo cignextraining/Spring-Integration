@@ -2,8 +2,8 @@
 title: Spring Integration
 subtitle: Spring Integration Framework!
 layout: "page"
-icon: fa-code-commit
 order: 8
+hide: true
 ---
 
 ## Welcome to GitHub Pages
