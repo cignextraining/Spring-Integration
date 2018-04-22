@@ -11,7 +11,9 @@ order: 1
 ## Enterprise Application Integration
 
 <br>
+<p>
 **Enterprise Application Integration (EAI)** is the middleware that allows applications across an Enterprise to communicate and work together.
+</p>
 <br>
 <blockquote>
   <p>According to <em>Gartner</em>, EAI can be defined as unrestricted sharing of data and business processes among any connected application or data sources in the enterprise.
@@ -35,12 +37,13 @@ order: 1
 - Consumer application can only consume JSON Format data.
 - EAI Solution transforms XML data to JSON data so it can be consumed.
   
+<br>  
 ## Spring Integration Framework
   
-<br>  
+<br>
+  
 - There are well known solutions to common needs in EIA world, which are called **Enterprise Integration Patterns (EIP)**. EIPs can be considered as Design Patterns of EIA world.
 
-<br>
 - **Spring Integration(SI)** is a physical embodiment of the EIP in Java which is built on top of Spring Framework.
 
 <br>
