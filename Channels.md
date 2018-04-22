@@ -7,7 +7,7 @@ order: 2
 ---
 
 ### Problem Perspective
-<img src="./imgs/Picture1.png" style="display: block; padding: 2% 0% 2% 14%;"/>
+<img src="{{ site.baseurl }}/imgs/Picture1.png" style="display: block; padding: 2% 0% 2% 14%;"/>
 
 
 - Producer and Consumer communicate with each other via **Pipe / Channel**. Channels are an integral part of any Spring Integration application.
@@ -20,10 +20,10 @@ order: 2
 
 <br/>	
 ### Problem Perspective
-<img src="./imgs/Picture1.png" style="display: block; padding: 2% 0% 2% 14%;"/>
+<img src="{{ site.baseurl }}/imgs/Picture1.png" style="display: block; padding: 2% 0% 2% 14%;"/>
 
 ### Channel and Message   
-<img src="./imgs/channels-messages.png" style="display: block; padding: 2% 0% 2% 14%;"/>  
+<img src="{{ site.baseurl }}/imgs/channels-messages.png" style="display: block; padding: 2% 0% 2% 14%;"/>  
   
 <br/>
   
