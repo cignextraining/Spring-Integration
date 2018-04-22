@@ -6,10 +6,6 @@ icon: fa-code
 order: 2
 ---
 
-### Problem Perspective
-<img src="{{ site.baseurl }}/imgs/Picture1.png" style="display: block; padding: 2% 0% 2% 14%;"/>
-
-
 - Producer and Consumer communicate with each other via **Pipe / Channel**. Channels are an integral part of any Spring Integration application.
 - Channels can be classified into: **Pollable Channels and Subscribable Channels**
 - In Spring Integration:
@@ -24,17 +20,17 @@ order: 2
 <img src="{{ site.baseurl }}/imgs/channels-messages.png" style="display: block; padding: 2% 0% 2% 2%;" width="90%" height="auto"/>  
   
 <br/>
+
+### Channel - EIP
+<img src="./imgs/Channels.PNG" style="display: block; padding: 2% 0% 2% 14%;"/>
+  
+<br/>
   
 ### Messages
 
 - **Message** consists of the Header and the Payload.
 - **Header** contains system information. E.g. timestamp, id, some metadata.
 - **Payload** contains the data or event that's needs to be exchanged inside of SI environment.
-  
-### Channel - EIP
-<img src="./imgs/Channels.PNG" style="display: block; padding: 2% 0% 2% 14%;"/>
-  
-<br/>
   
 ### Subscribable Channels 
 
