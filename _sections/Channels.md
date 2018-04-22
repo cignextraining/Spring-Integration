@@ -18,6 +18,8 @@ public class Application {
 {% endhighlight %}
 
 
+{% gist 8387126 %}
+
 ```
 @SpringBootApplication
 @ImportResource("/int-config/integration.xml")
