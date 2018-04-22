@@ -3,7 +3,7 @@ collections: [sections]
 remote_theme: chrisbobbe/jekyll-theme-prologue
 
 title: Cignex Datamatics
-description: Technical Trainings
+subtitle: Technical Trainings
 author: Vishal Rangras
 email: vishal.rangras@cignex.com
 github_url: https://github.com/cignextraining
