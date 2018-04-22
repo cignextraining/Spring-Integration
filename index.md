@@ -20,15 +20,8 @@ order: 1
 	- Producer application provide data in XML Format.
 	- Consumer application can only consume JSON Format data.
 	- EAI Solution transforms XML data to JSON data so it can be consumed.
-	
-[image1]: ./imgs/Picture1.png "Problem Perspective"
-<div align="center">
-![alt text][image1]
-![Problem Perspective](./imgs/Picture1.png)
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-</div>
 
-
+<img src="./imgs/Picture1.png" class="image centered"/>
 
 ## Spring Integration Framework
 
