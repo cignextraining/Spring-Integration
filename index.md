@@ -40,5 +40,5 @@ order: 1
 	- [x] Dependency Injection and Spring Container.
 	- [x] POJO driven capabilities and Bean Wiring.
 	- [x] AOP
-	- [x] Spring Security
-	- [x] Other benefits of Spring Ecosystem
+	-[x] Spring Security
+	[x] Other benefits of Spring Ecosystem
