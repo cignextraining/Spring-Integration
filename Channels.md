@@ -3,7 +3,6 @@ title: Channels
 subtitle: How channels and messages work in Spring Integration!
 cover-photo: ./imgs/banner.jpg
 auto-header: none
-layout: "home"
 icon: fa-code
 order: 2
 ---
