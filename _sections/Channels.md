@@ -2,14 +2,9 @@
 title: Channels
 subtitle: How channels and messages work in Spring Integration!
 layout: "page"
-cover-photo: ./imgs/Channels.PNG
-cover-photo-alt: Channels in Spring Integration
-auto-header: none
-icon: fa-file
+icon: fa-code
 order: 2
 ---
-
-<section>
 
 ```java
 @SpringBootApplication
@@ -23,8 +18,13 @@ public class Application {
 ```
 
 
-</section>
+```
+@SpringBootApplication
+@ImportResource("/int-config/integration.xml")
+public class Application {
 
-<footer>
-  <a href="#portfolio" class="button scrolly">Magna Aliquam</a>
-</footer>
+	public static void main(String[] args) {
+		SpringApplication.run(Application.class, args);
+	}
+}
+```
