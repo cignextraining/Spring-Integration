@@ -6,7 +6,7 @@ icon: fa-code
 order: 2
 ---
 
-```java
+{% highlight java %}
 @SpringBootApplication
 @ImportResource("/int-config/integration.xml")
 public class Application {
@@ -15,15 +15,13 @@ public class Application {
 		SpringApplication.run(Application.class, args);
 	}
 }
-```
+{% endhighlight %}
 
 
 ```
 @SpringBootApplication
 @ImportResource("/int-config/integration.xml")
 public class Application {
-
-</footer>
 	public static void main(String[] args) {
 		SpringApplication.run(Application.class, args);
 	}
