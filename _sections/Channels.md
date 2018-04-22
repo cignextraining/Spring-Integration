@@ -23,6 +23,7 @@ public class Application {
 @ImportResource("/int-config/integration.xml")
 public class Application {
 
+</footer>
 	public static void main(String[] args) {
 		SpringApplication.run(Application.class, args);
 	}
