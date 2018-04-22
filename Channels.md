@@ -22,7 +22,7 @@ order: 2
 <br/>
 
 ### Channel - EIP
-<img src="./imgs/Channels.PNG" style="display: block; padding: 2% 0% 2% 14%;"/>
+<img src="{{ site.baseurl }}/imgs/Channels.PNG" style="display: block; padding: 2% 0% 2% 14%;"/>
   
 <br/>
   
