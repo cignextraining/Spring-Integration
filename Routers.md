@@ -18,6 +18,8 @@ order: 6
 - Examine incoming message content to determine destination of message.
 - Uses payload type or header value to determine route.
   
+  <br/>
+      
 ### **Recipient List Routers**
   
 - Incoming messages are delivered to all listed recipient channels.
@@ -26,7 +28,7 @@ order: 6
   	
 <br/>
    
-<img src="./imgs/Routers.PNG" style="display: block; padding: 2% 0% 2% 14%;"/>
+<img src="{{ site.baseurl }}/imgs/Routers.PNG" style="display: block; padding: 2% 0% 2% 14%;"/>
    
 <br/>
   

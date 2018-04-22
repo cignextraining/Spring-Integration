@@ -16,7 +16,7 @@ order: 7
   	
 <br/>
    
-<img src="./imgs/Enrichers.PNG" style="display: block; padding: 2% 0% 2% 14%;"/>
+<img src="{{ site.baseurl }}/imgs/Enrichers.PNG" style="display: block; padding: 2% 0% 2% 14%;"/>
    
 <br/>
   

@@ -14,7 +14,7 @@ order: 3
   	
 <br/>
   
-<img src="./imgs/Adapters.PNG" style="display: block; padding: 2% 0% 2% 14%;"/>
+<img src="{{ site.baseurl }}/imgs/Adapters.PNG" style="display: block; padding: 2% 0% 2% 14%;"/>
   
 <br/>
    
