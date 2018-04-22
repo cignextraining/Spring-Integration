@@ -24,7 +24,7 @@ order: 4
    
 <br/>
 	
-### Filters - Message Selector - File	
+### Filters - Message Selector - with File Adapter
    
 <br/>
 		
