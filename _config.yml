@@ -1,4 +1,6 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-prologue
+collections: [sections]
+
 logo: ./imgs/logo.png
 show_downloads: "true"
 description: Cignex Datamatics - Technical Training Site
