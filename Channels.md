@@ -18,12 +18,10 @@ order: 2
 	- The communication occurs via **Messages**.
 	- Message may consist of either some **data** or some **event information**.
 
-<br/>	
-### Problem Perspective
-<img src="{{ site.baseurl }}/imgs/Picture1.png" style="display: block; padding: 2% 0% 2% 14%;"/>
+<br/>
 
 ### Channel and Message   
-<img src="{{ site.baseurl }}/imgs/channels-messages.png" style="display: block; padding: 2% 0% 2% 14%;"/>  
+<img src="{{ site.baseurl }}/imgs/channels-messages.png" style="display: block; padding: 2% 0% 2% 2%;" width="90%" height="auto"/>  
   
 <br/>
   
@@ -33,10 +31,9 @@ order: 2
 - **Header** contains system information. E.g. timestamp, id, some metadata.
 - **Payload** contains the data or event that's needs to be exchanged inside of SI environment.
   
-<br/>
-
+### Channel - EIP
 <img src="./imgs/Channels.PNG" style="display: block; padding: 2% 0% 2% 14%;"/>
-
+  
 <br/>
   
 ### Subscribable Channels 

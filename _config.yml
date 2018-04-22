@@ -14,3 +14,4 @@ show_downloads: "true"
 
 permalink: pretty
 avatar: ./imgs/Logo_400x400.GIF
+baseurl: "/Spring-Integration"
