@@ -17,7 +17,7 @@ order: 4
   	
 <br/>
    
-<img src="{{ site.baseurl }}/imgs/Filters.PNG" style="display: block; padding: 2% 0% 2% 14%;"/>
+<img src="{{ site.baseurl }}/imgs/Filters.PNG" style="display: block; padding: 2% 0% 2% 0%;"/>
    
 <br/>
   
