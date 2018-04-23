@@ -17,6 +17,10 @@ order: 3
 <img src="{{ site.baseurl }}/imgs/Adapters.PNG" style="display: block; padding: 2% 0% 2% 14%;"/>
   
 <br/>
+  
+#### You can checkout source-code from <a href="https://github.com/cignextraining/Spring-Integration-src" target="_blank">here</a>.
+  
+<br/>
    
 - Sequence to follow: 
 	1. Outbound Adapter with Stdin

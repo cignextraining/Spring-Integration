@@ -20,7 +20,10 @@ order: 7
    
 <br/>
   
-
+#### You can checkout source-code from <a href="https://github.com/cignextraining/Spring-Integration-src" target="_blank">here</a>.
+  
+<br/>  
+  
 - Sequence to follow:
 	1. Simple built-in Enricher
 	2. Custom Enricher with Service Activator
